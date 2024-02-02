@@ -1,2 +1,2 @@
-# ProgramPython
-Application created with python and PyQt5
+# Python Login Page
+This program is a login page created in Python using PyQt5 and SQLite.
